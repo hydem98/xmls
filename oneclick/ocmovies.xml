@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+<fanart>https://offshoregit.com/c0ldfire/zip/plugin.video.no-name/fanart.jpg</fanart>
+<SetViewMode>1</SetViewMode>
+<items>
+
+
+<plugin>
+<name>nothing here yet ?????</name>
+<link></link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>this is just a test run on the one clicks</name>
+<link></link>
+<thumbnail></thumbnail>
+</plugin>
+
+<item>
+    <title>Ad Astra</title>
+<link>plugin://plugin.video.elementum/search?q=Ad%20Astra</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Scoob!</title>
+<link>plugin://plugin.video.elementum/search?q=Scoob!</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//zG2l9Svw4PTldWJAzC171Y3d6G8.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Bloodshot</title>
+<link>plugin://plugin.video.elementum/search?q=Bloodshot</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)</title>
+<link>plugin://plugin.video.elementum/search?q=Birds%20of%20Prey%20(and%20the%20Fantabulous%20Emancipation%20of%20One%20Harley%20Quinn)</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//h4VB6m0RwcicVEZvzftYZyKXs6K.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Sonic the Hedgehog</title>
+<link>plugin://plugin.video.elementum/search?q=Sonic%20the%20Hedgehog</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>1917</title>
+<link>plugin://plugin.video.elementum/search?q=1917</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Inception</title>
+<link>plugin://plugin.video.elementum/search?q=Inception</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>The Wrong Missy</title>
+<link>plugin://plugin.video.elementum/search?q=The%20Wrong%20Missy</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//A2YlIrzypvhS3vTFMcDkG3xLvac.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Extraction</title>
+<link>plugin://plugin.video.elementum/search?q=Extraction</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//wlfDxbGEsW58vGhFljKkcR5IxDj.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Frozen II</title>
+<link>plugin://plugin.video.elementum/search?q=Frozen%20II</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Star Wars: The Rise of Skywalker</title>
+<link>plugin://plugin.video.elementum/search?q=Star%20Wars%3A%20The%20Rise%20of%20Skywalker</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Cars</title>
+<link>plugin://plugin.video.elementum/search?q=Cars</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//qa6HCwP4Z15l3hpsASz3auugEW6.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>The Invisible Man</title>
+<link>plugin://plugin.video.elementum/search?q=The%20Invisible%20Man</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//5EufsDwXdY2CVttYOk2WtYhgKpa.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Justice League Dark: Apokolips War</title>
+<link>plugin://plugin.video.elementum/search?q=Justice%20League%20Dark%3A%20Apokolips%20War</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Parasite</title>
+<link>plugin://plugin.video.elementum/search?q=Parasite</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//7IiTTgloJzvGI1TAYymCfbfl3vT.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Onward</title>
+<link>plugin://plugin.video.elementum/search?q=Onward</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//f4aul3FyD3jv3v4bul1IrkWZvzq.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Joker</title>
+<link>plugin://plugin.video.elementum/search?q=Joker</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Bad Boys for Life</title>
+<link>plugin://plugin.video.elementum/search?q=Bad%20Boys%20for%20Life</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Inheritance</title>
+<link>plugin://plugin.video.elementum/search?q=Inheritance</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//l13mt3oHErSkkqJbN1bjzgtK0Vq.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Avengers: Infinity War</title>
+<link>plugin://plugin.video.elementum/search?q=Avengers%3A%20Infinity%20War</link>
+    <thumbnail>http://image.tmdb.org/t/p/w500//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+</item>
+</items>
