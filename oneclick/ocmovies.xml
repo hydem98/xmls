@@ -19,280 +19,141 @@
 </plugin>
 
 <item>
-   <title>Ad Astra</title>
+    <title>Ad Astra</title>
 <link>plugin://plugin.video.elementum/search?q=Ad%20Astra</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Scoob!</title>
+    <title>Scoob!</title>
 <link>plugin://plugin.video.elementum/search?q=Scoob!</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//zG2l9Svw4PTldWJAzC171Y3d6G8.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//zG2l9Svw4PTldWJAzC171Y3d6G8.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Bloodshot</title>
+    <title>Bloodshot</title>
 <link>plugin://plugin.video.elementum/search?q=Bloodshot</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)</title>
+    <title>Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)</title>
 <link>plugin://plugin.video.elementum/search?q=Birds%20of%20Prey%20(and%20the%20Fantabulous%20Emancipation%20of%20One%20Harley%20Quinn)</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//h4VB6m0RwcicVEZvzftYZyKXs6K.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//h4VB6m0RwcicVEZvzftYZyKXs6K.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Sonic the Hedgehog</title>
+    <title>Sonic the Hedgehog</title>
 <link>plugin://plugin.video.elementum/search?q=Sonic%20the%20Hedgehog</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>1917</title>
+    <title>1917</title>
 <link>plugin://plugin.video.elementum/search?q=1917</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Inception</title>
+    <title>Inception</title>
 <link>plugin://plugin.video.elementum/search?q=Inception</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>The Wrong Missy</title>
+    <title>The Wrong Missy</title>
 <link>plugin://plugin.video.elementum/search?q=The%20Wrong%20Missy</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//A2YlIrzypvhS3vTFMcDkG3xLvac.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//A2YlIrzypvhS3vTFMcDkG3xLvac.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Extraction</title>
+    <title>Extraction</title>
 <link>plugin://plugin.video.elementum/search?q=Extraction</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//wlfDxbGEsW58vGhFljKkcR5IxDj.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//wlfDxbGEsW58vGhFljKkcR5IxDj.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Frozen II</title>
+    <title>Frozen II</title>
 <link>plugin://plugin.video.elementum/search?q=Frozen%20II</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Star Wars: The Rise of Skywalker</title>
+    <title>Star Wars: The Rise of Skywalker</title>
 <link>plugin://plugin.video.elementum/search?q=Star%20Wars%3A%20The%20Rise%20of%20Skywalker</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Cars</title>
+    <title>Cars</title>
 <link>plugin://plugin.video.elementum/search?q=Cars</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//qa6HCwP4Z15l3hpsASz3auugEW6.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//qa6HCwP4Z15l3hpsASz3auugEW6.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>The Invisible Man</title>
+    <title>The Invisible Man</title>
 <link>plugin://plugin.video.elementum/search?q=The%20Invisible%20Man</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//5EufsDwXdY2CVttYOk2WtYhgKpa.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//5EufsDwXdY2CVttYOk2WtYhgKpa.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Justice League Dark: Apokolips War</title>
+    <title>Justice League Dark: Apokolips War</title>
 <link>plugin://plugin.video.elementum/search?q=Justice%20League%20Dark%3A%20Apokolips%20War</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Parasite</title>
+    <title>Parasite</title>
 <link>plugin://plugin.video.elementum/search?q=Parasite</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//7IiTTgloJzvGI1TAYymCfbfl3vT.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//7IiTTgloJzvGI1TAYymCfbfl3vT.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Onward</title>
+    <title>Onward</title>
 <link>plugin://plugin.video.elementum/search?q=Onward</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//f4aul3FyD3jv3v4bul1IrkWZvzq.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//f4aul3FyD3jv3v4bul1IrkWZvzq.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Joker</title>
+    <title>Joker</title>
 <link>plugin://plugin.video.elementum/search?q=Joker</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Bad Boys for Life</title>
+    <title>Bad Boys for Life</title>
 <link>plugin://plugin.video.elementum/search?q=Bad%20Boys%20for%20Life</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Inheritance</title>
+    <title>Inheritance</title>
 <link>plugin://plugin.video.elementum/search?q=Inheritance</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//l13mt3oHErSkkqJbN1bjzgtK0Vq.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//l13mt3oHErSkkqJbN1bjzgtK0Vq.jpg</thumbnail>
 </item>
 
 
 <item>
-   <title>Avengers: Infinity War</title>
+    <title>Avengers: Infinity War</title>
 <link>plugin://plugin.video.elementum/search?q=Avengers%3A%20Infinity%20War</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
-</item>
-
-<item>
-   <title>Ad Astra</title>
-   <link>plugin://plugin.video.elementum/movie/419704</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Bloodshot</title>
-   <link>plugin://plugin.video.elementum/movie/338762</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>The Hunt</title>
-   <link>plugin://plugin.video.elementum/movie/514847</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>The Blackout: Invasion Earth</title>
-   <link>plugin://plugin.video.elementum/movie/574982</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//avl9MEQhtvokNnzoWepkmHBZ2ss.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Sonic the Hedgehog</title>
-   <link>plugin://plugin.video.elementum/movie/454626</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Scoob!</title>
-   <link>plugin://plugin.video.elementum/movie/385103</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)</title>
-   <link>plugin://plugin.video.elementum/movie/495764</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//h4VB6m0RwcicVEZvzftYZyKXs6K.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Cars</title>
-   <link>plugin://plugin.video.elementum/movie/920</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//qa6HCwP4Z15l3hpsASz3auugEW6.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Bad Boys for Life</title>
-   <link>plugin://plugin.video.elementum/movie/38700</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Joker</title>
-   <link>plugin://plugin.video.elementum/movie/475557</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Parasite</title>
-   <link>plugin://plugin.video.elementum/movie/496243</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//7IiTTgloJzvGI1TAYymCfbfl3vT.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Aladdin</title>
-   <link>plugin://plugin.video.elementum/movie/420817</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Spider-Man: Far from Home</title>
-   <link>plugin://plugin.video.elementum/movie/429617</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//4q2NNj4S5dG2RLF9CpXsej7yXl.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>The Gentlemen</title>
-   <link>plugin://plugin.video.elementum/movie/522627</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Survive the Night</title>
-   <link>plugin://plugin.video.elementum/movie/686245</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//niyXFhGIk4W2WTcX2Eod8vx2Mfe.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Intuition</title>
-   <link>plugin://plugin.video.elementum/movie/620883</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//m2rJGjlesDKxugl7ypW8n3Mipjl.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>1917</title>
-   <link>plugin://plugin.video.elementum/movie/530915</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>The Dark Knight</title>
-   <link>plugin://plugin.video.elementum/movie/155</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//qJ2tW6WMUDux911r6m7haRef0WH.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Inception</title>
-   <link>plugin://plugin.video.elementum/movie/27205</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</thumbnail>
-</item>
-
-
-<item>
-   <title>Star Wars: The Rise of Skywalker</title>
-   <link>plugin://plugin.video.elementum/movie/181812</link>
-   <thumbnail>http://image.tmdb.org/t/p/w500//db32LaOibwEliAmSL2jjDF6oDdj.jpg</thumbnail>
+    <thumbnail>http://image.tmdb.org/t/p/w500//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
 </item>
 </items>
