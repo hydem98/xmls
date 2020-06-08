@@ -4,27 +4,166 @@
 <fanart>https://offshoregit.com/c0ldfire/zip/plugin.video.no-name/fanart.jpg</fanart>
 <SetViewMode>1</SetViewMode>
 <items>
-
-
 <item>
-	<title>[B][COLOR=yellow]Possessor[/COLOR][/B]</title>
+	<title>[COLOR=white]The Godfather[/COLOR]</title>
 	<meta>
-	<imdb>tt5918982</imdb>
+	<imdb>tt0068646</imdb>
 	<content>movie</content>
-	<title>Possessor</title>
-	<year>2020</year>
+	<title>The Godfather</title>
+	<year>1972</year>
 	</meta>
 	<link>
-	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=OiZAbZeIHLI&feature=youtu.be (Play Trailer)</sublink>
-	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/435615/links/</sublink>
-	<sublink name=[COLOR springgreen]test[/COLOR]>plugin://plugin.video.odin/?action=play1&amp;imdb=tt5918982</sublink>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Ak19g0j10-Q&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/238/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=The%20Godfather</sublink>
 	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/xk6XO65lFNVu5brmr9pAXe2lKgD.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/1DWIdrj8Qga8N3JaDYjJ8z59k2F.jpg</fanart>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg</fanart>
 </item>
-
-
-
+<item>
+	<title>[COLOR=white]The Shawshank Redemption[/COLOR]</title>
+	<meta>
+	<imdb>tt0111161</imdb>
+	<content>movie</content>
+	<title>The Shawshank Redemption</title>
+	<year>1994</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=K_tLp7T6U1c&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/278/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=The%20Shawshank%20Redemption</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5KCVkau1HEl7ZzfPsKAPM0sMiKc.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/avedvodAZUcwqevBfm8p4G2NziQ.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Godfather Part II[/COLOR]</title>
+	<meta>
+	<imdb>tt0071562</imdb>
+	<content>movie</content>
+	<title>The Godfather Part II</title>
+	<year>1974</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=9O1Iy9od7-A&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/240/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=The%20Godfather%20Part%20II</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/amvmeQWheahG3StKwIE1f7jRnkZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Inception[/COLOR]</title>
+	<meta>
+	<imdb>tt1375666</imdb>
+	<content>movie</content>
+	<title>Inception</title>
+	<year>2010</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Jvurpf91omw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/27205/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=Inception</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/s3TBrRGB1iav7gFOCNx3H31MoES.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Fight Club[/COLOR]</title>
+	<meta>
+	<imdb>tt0137523</imdb>
+	<content>movie</content>
+	<title>Fight Club</title>
+	<year>1999</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=BdJKm16Co6M&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/550/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=Fight%20Club</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8iVyhmjzUbvAGppkdCZPiyEHSoF.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Dark Knight[/COLOR]</title>
+	<meta>
+	<imdb>tt0468569</imdb>
+	<content>movie</content>
+	<title>The Dark Knight</title>
+	<year>2008</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=kmJLuwP3MbY&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/155/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=The%20Dark%20Knight</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]12 Angry Men[/COLOR]</title>
+	<meta>
+	<imdb>tt0050083</imdb>
+	<content>movie</content>
+	<title>12 Angry Men</title>
+	<year>1957</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=OvebOqneLIU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/389/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=12%20Angry%20Men</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7sf9CgJz30aXDvrg7DYYUQ2U91T.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qqHQsStV6exghCM7zbObuYBiYxw.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Lord of the Rings The Fellowship of the Ring[/COLOR]</title>
+	<meta>
+	<imdb>tt0120737</imdb>
+	<content>movie</content>
+	<title>The Lord of the Rings The Fellowship of the Ring</title>
+	<year>2001</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=V75dMMIW2B4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/120/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Matrix[/COLOR]</title>
+	<meta>
+	<imdb>tt0133093</imdb>
+	<content>movie</content>
+	<title>The Matrix</title>
+	<year>1999</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=m8e-FF8MsqU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/603/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=The%20Matrix</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ByDf0zjLSumz1MP1cDEo2JWVtU.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Se7en[/COLOR]</title>
+	<meta>
+	<imdb>tt0114369</imdb>
+	<content>movie</content>
+	<title>Se7en</title>
+	<year>1995</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=SpKbZ_3zlb0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/807/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=tvSearchterm&amp;name=Se7en</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6yoghtyTpznpBik8EngEmJskVUO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4U4q1zjIwCZTNkp6RKWkWPuC7uI.jpg</fanart>
+</item>
 
 
 </items>
