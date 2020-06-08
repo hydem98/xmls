@@ -4,14 +4,226 @@
 <fanart>https://offshoregit.com/c0ldfire/zip/plugin.video.no-name/fanart.jpg</fanart>
 <SetViewMode>1</SetViewMode>
 <items>
-
-
-<plugin>
-<name>nothing here yet ?????</name>
-<link></link>
-<thumbnail></thumbnail>
-</plugin>
-
+<item>
+	<title>[B][COLOR=yellow]Pilot[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2013</year>
+	<season>1</season>
+	<episode>1</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Lawnmower Dog[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2013</year>
+	<season>1</season>
+	<episode>2</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r3CzGadu9EEunFtuTqmXxMRkX5V.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Anatomy Park[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2013</year>
+	<season>1</season>
+	<episode>3</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3cp6QrExDBQUFGcOu43NBtaugNY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]M. Night Shaym-Aliens![/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>4</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dAlrn9OIvMuaebSCK3JJVYn8qnu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Meeseeks and Destroy[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>5</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Rick Potion #9[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>6</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/cuNE6h2oSvm1gvxOzFIbswjwAjq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Raising Gazorpazorp[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>7</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ctFz5NLR4kRwpXsdC6xvqQI8U1h.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Rixty Minutes[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>8</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Something Ricked This Way Comes[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>9</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/daA9q3U3ibIcm5OGuklySeIsQWV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Close Rick-Counters of the Rick Kind[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>10</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Ricksy Business[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt11815164</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rick and Morty</tvshowtitle>
+	<year>2014</year>
+	<season>1</season>
+	<episode>11</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Dark Carnival Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Odin Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Ego Link[/COLOR]>plugin://plugin.video.ego/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]resistance Link[/COLOR]>plugin://plugin.video.resistance/?action=play&amp;imdb=tt11815164</sublink>
+	<sublink name=[COLOR lime]Watchdogs Link[/COLOR]>plugin://plugin.video.watchdogs/?action=play&amp;imdb=tt11815164</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mLJbMSLaB8CZmr07GJGH9TiG4PL.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eV3XnUul4UfIivz3kxgeIozeo50.jpg</fanart>
+</item>
 
 
 
