@@ -12,7 +12,7 @@
 	<title>The Godfather</title>
 	<year>1972</year>
 	</meta>
-	<link>plugin://plugin.video.odin/?action=movieSearchterm&amp;name=The%20Godfather</link>
+	<link>plugin://plugin.video.odin/?action=play&title=The%20Godfather</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg</fanart>
 </item>
