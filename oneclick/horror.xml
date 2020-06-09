@@ -16,11 +16,15 @@
 	<link>
 	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Ak19g0j10-Q&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/238/links/</sublink>
-	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;title=Joker</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg</fanart>
 </item>
+<plugin>
+	<name>[COLOR=white]The Godfather[/COLOR]-scrapers</name>
+	<link>plugin://plugin.video.dk/?action=play&amp;title=The%20Godfather</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg</thumbnail>
+</plugin>
 <item>
 	<title>[COLOR=white]The Shawshank Redemption[/COLOR]</title>
 	<meta>
