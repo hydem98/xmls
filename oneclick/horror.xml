@@ -16,7 +16,7 @@
 	<link>
 	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Ak19g0j10-Q&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/238/links/</sublink>
-	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.no-name/?action=movieSearchterm&name=The%20Godfather</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.odin/?action=play&amp;title=Joker</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg</fanart>
