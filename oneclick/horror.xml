@@ -175,6 +175,7 @@
 	<link>
 	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=m8e-FF8MsqU&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/603/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.dk/?action=play&amp;title=Se7en</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ByDf0zjLSumz1MP1cDEo2JWVtU.jpg</fanart>
