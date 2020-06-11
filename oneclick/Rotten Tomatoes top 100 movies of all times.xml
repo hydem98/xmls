@@ -17,7 +17,7 @@
 </item>
 <plugin>
 <title>A Hard Days Night</title>
-<link>plugin://plugin.video.odin/?action=play&title=The+Dark+Knight</link>
+<link>plugin://plugin.video.dk/?action=movieSearchterm&amp;name=batman</link>
 <thumbnail>https://archive.org/download/script.metalgearsolid-6.7.7/torrent.png</thumbnail>
 <fanart>https://archive.org/download/script.metalgearsolid-6.7.7/M37TGZ.jpg</fanart>
 </plugin>
