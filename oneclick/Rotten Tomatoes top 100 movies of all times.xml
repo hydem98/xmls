@@ -9,7 +9,7 @@
 	<link>
 	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=pqmD3FWPajY&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/704/links/</sublink>
-	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin.video.dk/?action=play&amp;title=Aliens</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>PlayMedia(&quot;plugin://plugin.video.odin/?action=play&amp;title=The+Dark+Knight&amp;year=2008&amp;imdb=tt0468569</sublink>
 	<sublink>plugin://plugin.video.metalgear/movies/play/tmdb/704?usedefault=True</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/p0kHz7m64wDzvPLmkUl36pN2IHP.jpg</thumbnail>
