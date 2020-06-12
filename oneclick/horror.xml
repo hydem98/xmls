@@ -5,20 +5,2406 @@
 <SetViewMode>1</SetViewMode>
 <items>
 <item>
-	<title>[COLOR=white]The Godfather[/COLOR]</title>
+	<title>[COLOR=white]Dracula[/COLOR]</title>
 	<meta>
-	<imdb>tt0068646</imdb>
+	<imdb>tt0021814</imdb>
 	<content>movie</content>
-	<title>The Godfather</title>
+	<title>Dracula</title>
+	<year>1931</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=VoaMw91MC9k&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/138/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Dracula</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Dracula?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Dracula?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sqC71v6rK3r5gSJGS9eqdvUXS3f.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cemjdP7HrUyJAry85vRT19Hidbi.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Dracula[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Dracula</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sqC71v6rK3r5gSJGS9eqdvUXS3f.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cemjdP7HrUyJAry85vRT19Hidbi.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Evil Dead[/COLOR]</title>
+	<meta>
+	<imdb>tt0083907</imdb>
+	<content>movie</content>
+	<title>The Evil Dead</title>
+	<year>1981</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=GU92dtYrF9I&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/764/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Evil%20Dead</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Evil+Dead?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Evil+Dead?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eUEqWIswh9yBXhPvfJsl8MBC8DG.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Evil Dead[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Evil+Dead</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/eUEqWIswh9yBXhPvfJsl8MBC8DG.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Carrie[/COLOR]</title>
+	<meta>
+	<imdb>tt0074285</imdb>
+	<content>movie</content>
+	<title>Carrie</title>
+	<year>1976</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=EB9TxhF08ng&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/7340/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Carrie</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Carrie?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Carrie?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Carrie[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Carrie</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]King Kong[/COLOR]</title>
+	<meta>
+	<imdb>tt0024216</imdb>
+	<content>movie</content>
+	<title>King Kong</title>
+	<year>1933</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=rtU19RpWSF4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/244/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=King%20Kong</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/King+Kong?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/King+Kong?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7hDdW3C17pi4MdSeYXs8bwIVA78.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]King Kong[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=King+Kong</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7hDdW3C17pi4MdSeYXs8bwIVA78.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Re Animator[/COLOR]</title>
+	<meta>
+	<imdb>tt0089885</imdb>
+	<content>movie</content>
+	<title>Re Animator</title>
+	<year>1985</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=wLJ8Z3PDEGU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1694/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Re%20Animator</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Re+Animator?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Re+Animator?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oMnKJQF8yWnPxHAzNCs6mhHnNlq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/crHveywyqIiqzkUiQiwNuNJph5.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Re Animator[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Re+Animator</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oMnKJQF8yWnPxHAzNCs6mhHnNlq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/crHveywyqIiqzkUiQiwNuNJph5.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Halloween[/COLOR]</title>
+	<meta>
+	<imdb>tt0077651</imdb>
+	<content>movie</content>
+	<title>Halloween</title>
+	<year>1978</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=0ZF23Hfwihg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/948/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Halloween</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Halloween?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Halloween?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yzVhqSi3XkEQOovR4yy2lVTZiQO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6Io0gvfEVpMQsB46yXOKCpSJOoJ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Halloween[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Halloween</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yzVhqSi3XkEQOovR4yy2lVTZiQO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6Io0gvfEVpMQsB46yXOKCpSJOoJ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Alien[/COLOR]</title>
+	<meta>
+	<imdb>tt0078748</imdb>
+	<content>movie</content>
+	<title>Alien</title>
+	<year>1979</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=097uj1HjkbM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/348/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Alien</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Alien?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Alien?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Alien[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Alien</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Black Christmas[/COLOR]</title>
+	<meta>
+	<imdb>tt0071222</imdb>
+	<content>movie</content>
+	<title>Black Christmas</title>
+	<year>1974</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=loTsV0RGm9w&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/16938/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Black%20Christmas</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Black+Christmas?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Black+Christmas?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vkOQQ0zPTWzosHrcYcEhRJ17Uer.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Black Christmas[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black+Christmas</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vkOQQ0zPTWzosHrcYcEhRJ17Uer.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Freaks[/COLOR]</title>
+	<meta>
+	<imdb>tt0022913</imdb>
+	<content>movie</content>
+	<title>Freaks</title>
+	<year>1932</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=GjzvvYX8hmk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/136/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Freaks</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Freaks?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Freaks?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j2dwljljOrLTcnwfKeUBBeNB8t7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Freaks[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Freaks</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j2dwljljOrLTcnwfKeUBBeNB8t7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Nosferatu[/COLOR]</title>
+	<meta>
+	<imdb>tt0013442</imdb>
+	<content>movie</content>
+	<title>Nosferatu</title>
+	<year>1922</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=GjzvvYX8hmk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/653/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Nosferatu</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Nosferatu?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Nosferatu?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Nosferatu[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Nosferatu</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Psycho[/COLOR]</title>
+	<meta>
+	<imdb>tt0054215</imdb>
+	<content>movie</content>
+	<title>Psycho</title>
+	<year>1960</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=uf2fa08xrIk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/539/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Psycho</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Psycho?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Psycho?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/81d8oyEFgj7FlxJqSDXWr8JH8kV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kZGaVeXSkkvrpMYvD97sxHj291k.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Psycho[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Psycho</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/81d8oyEFgj7FlxJqSDXWr8JH8kV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kZGaVeXSkkvrpMYvD97sxHj291k.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Night of the Living Dead[/COLOR]</title>
+	<meta>
+	<imdb>tt0063350</imdb>
+	<content>movie</content>
+	<title>Night of the Living Dead</title>
+	<year>1968</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=5gUKvmOEGCU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10331/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Night%20of%20the%20Living%20Dead</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Night+of+the+Living+Dead?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Night+of+the+Living+Dead?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rSBkU4g4uvZQIMOSpvrmvR4VwhA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/msPUiG0tIVPcLblsCs43yRKEdBr.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Night of the Living Dead[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Night+of+the+Living+Dead</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rSBkU4g4uvZQIMOSpvrmvR4VwhA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/msPUiG0tIVPcLblsCs43yRKEdBr.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Haunting[/COLOR]</title>
+	<meta>
+	<imdb>tt0057129</imdb>
+	<content>movie</content>
+	<title>The Haunting</title>
+	<year>1963</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=SrE9FQwWTcA&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11772/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Haunting</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Haunting?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Haunting?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uZdZko5tiIrGnrSfmYVSRIi7dxL.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/s9Nem6j5t845CKNPoF2rwIQCLNS.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Haunting[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Haunting</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uZdZko5tiIrGnrSfmYVSRIi7dxL.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/s9Nem6j5t845CKNPoF2rwIQCLNS.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Birds[/COLOR]</title>
+	<meta>
+	<imdb>tt0056869</imdb>
+	<content>movie</content>
+	<title>The Birds</title>
+	<year>1963</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=lCxR7dlavwg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/571/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Birds</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Birds?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Birds?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8iblNVv03Fc7yBMfziD8y3eBmqY.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Birds[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Birds</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8iblNVv03Fc7yBMfziD8y3eBmqY.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Friday the 13th[/COLOR]</title>
+	<meta>
+	<imdb>tt0080761</imdb>
+	<content>movie</content>
+	<title>Friday the 13th</title>
+	<year>1980</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=2S8YFTcEDME&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/4488/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Friday%20the%2013th</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Friday+the+13th?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Friday+the+13th?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4nbUlVEg31I8lchI3bu3Oq3Ks4t.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/Y4E38GCezVsm7zT7ZwNP7ULNZE.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Friday the 13th[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Friday+the+13th</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4nbUlVEg31I8lchI3bu3Oq3Ks4t.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/Y4E38GCezVsm7zT7ZwNP7ULNZE.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Braindead[/COLOR]</title>
+	<meta>
+	<imdb>tt0103873</imdb>
+	<content>movie</content>
+	<title>Braindead</title>
+	<year>1992</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Ogj4f-V--h0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/763/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Braindead</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Braindead?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Braindead?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8ppAsvY7HPoNzNvAmkgjx7FTRpw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/g7Y2lG5r9gD7CFijd0P9ZynF3C7.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Braindead[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Braindead</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8ppAsvY7HPoNzNvAmkgjx7FTRpw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/g7Y2lG5r9gD7CFijd0P9ZynF3C7.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Phantasm[/COLOR]</title>
+	<meta>
+	<imdb>tt0079714</imdb>
+	<content>movie</content>
+	<title>Phantasm</title>
+	<year>1979</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=SBD6-Od1RQI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9638/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Phantasm</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Phantasm?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Phantasm?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ArFnNAx8UsM3RRkfZRhpGQ280X9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3vkiKWzq6gtJ0JKFYvrML236Gub.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Phantasm[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Phantasm</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ArFnNAx8UsM3RRkfZRhpGQ280X9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3vkiKWzq6gtJ0JKFYvrML236Gub.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Dawn of the Dead[/COLOR]</title>
+	<meta>
+	<imdb>tt0077402</imdb>
+	<content>movie</content>
+	<title>Dawn of the Dead</title>
+	<year>1978</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=3M3NUjaOyJ8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/923/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Dawn%20of%20the%20Dead</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Dawn+of+the+Dead?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Dawn+of+the+Dead?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9kGESwH451kRgm1h6Q0svAVK60N.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/giTsVwG3f1bul25TVC4PvGeRoeG.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Dawn of the Dead[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Dawn+of+the+Dead</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9kGESwH451kRgm1h6Q0svAVK60N.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/giTsVwG3f1bul25TVC4PvGeRoeG.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]An American Werewolf in London[/COLOR]</title>
+	<meta>
+	<imdb>tt0082010</imdb>
+	<content>movie</content>
+	<title>An American Werewolf in London</title>
+	<year>1981</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Dq8ORttgxd8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/814/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=An%20American%20Werewolf%20in%20London</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/An+American+Werewolf+in+London?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/An+American+Werewolf+in+London?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dlnccJQuRQuxnpDdDtmFlW7MKH1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]An American Werewolf in London[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=An+American+Werewolf+in+London</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dlnccJQuRQuxnpDdDtmFlW7MKH1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Scream[/COLOR]</title>
+	<meta>
+	<imdb>tt0117571</imdb>
+	<content>movie</content>
+	<title>Scream</title>
+	<year>1996</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=xRqAmYpV_Ts&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/4232/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Scream</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Scream?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Scream?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tdcb0RHusaQxScWORevtKQ0u9NG.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Scream[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Scream</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tdcb0RHusaQxScWORevtKQ0u9NG.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Jaws[/COLOR]</title>
+	<meta>
+	<imdb>tt0073195</imdb>
+	<content>movie</content>
+	<title>Jaws</title>
+	<year>1975</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=qSU5iaHIIjc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/578/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Jaws</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Jaws?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Jaws?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s2xcqSFfT6F7ZXHxowjxfG0yisT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Jaws[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Jaws</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s2xcqSFfT6F7ZXHxowjxfG0yisT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Descent[/COLOR]</title>
+	<meta>
+	<imdb>tt0435625</imdb>
+	<content>movie</content>
+	<title>The Descent</title>
+	<year>2005</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=iw_KYXVNBqo&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9392/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Descent</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Descent?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Descent?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dnsIGj7cxeRD5t9g4arKOiN1w9u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/t2651ojTyeb424gbAQiPBl03GXl.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Descent[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Descent</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dnsIGj7cxeRD5t9g4arKOiN1w9u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/t2651ojTyeb424gbAQiPBl03GXl.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Fly[/COLOR]</title>
+	<meta>
+	<imdb>tt0051622</imdb>
+	<content>movie</content>
+	<title>The Fly</title>
+	<year>1958</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Hdv4QA-O1bg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11815/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Fly</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Fly?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Fly?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iA8BkPKxAfEruwXXGK2ggduJuO6.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wpz62HFxCGaMX6jImELAspwqjT1.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Fly[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Fly</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iA8BkPKxAfEruwXXGK2ggduJuO6.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wpz62HFxCGaMX6jImELAspwqjT1.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Phantom of the Opera[/COLOR]</title>
+	<meta>
+	<imdb>tt0016220</imdb>
+	<content>movie</content>
+	<title>The Phantom of the Opera</title>
+	<year>1925</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=IN6u28dq4qc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/964/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Phantom%20of%20the%20Opera</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Phantom+of+the+Opera?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Phantom+of+the+Opera?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/itfhSxbIgsan85iY1NrquIx7qxo.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/32yzKZMiiDGMVYomX9RrbAI7F88.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Phantom of the Opera[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Phantom+of+the+Opera</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/itfhSxbIgsan85iY1NrquIx7qxo.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/32yzKZMiiDGMVYomX9RrbAI7F88.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Wolf Man[/COLOR]</title>
+	<meta>
+	<imdb>tt0034398</imdb>
+	<content>movie</content>
+	<title>The Wolf Man</title>
+	<year>1941</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=j_k5TyfHMQw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/13666/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Wolf%20Man</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Wolf+Man?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Wolf+Man?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zDPx4cDT89UFja5DEv7RWzTmJUv.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Wolf Man[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Wolf+Man</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zDPx4cDT89UFja5DEv7RWzTmJUv.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Texas Chain Saw Massacre[/COLOR]</title>
+	<meta>
+	<imdb>tt0072271</imdb>
+	<content>movie</content>
+	<title>The Texas Chain Saw Massacre</title>
+	<year>1974</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=T3TILW0O_C0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/30497/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Texas%20Chain%20Saw%20Massacre</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Texas+Chain+Saw+Massacre?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Texas+Chain+Saw+Massacre?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9s8uSm5K1W0vhGPHv2icM6SFib8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xwYpYtrA4QpFbYVhQiiBglUHrU4.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Texas Chain Saw Massacre[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Texas+Chain+Saw+Massacre</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9s8uSm5K1W0vhGPHv2icM6SFib8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xwYpYtrA4QpFbYVhQiiBglUHrU4.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Poltergeist[/COLOR]</title>
+	<meta>
+	<imdb>tt0084516</imdb>
+	<content>movie</content>
+	<title>Poltergeist</title>
+	<year>1982</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=RsrTg0TpZ2c&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/609/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Poltergeist</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Poltergeist?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Poltergeist?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xPazCcKp62IshnLVf9BLAjf9vgC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/IDjiEj9R4VKB8lPVfxODdjhr44.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Poltergeist[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Poltergeist</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xPazCcKp62IshnLVf9BLAjf9vgC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/IDjiEj9R4VKB8lPVfxODdjhr44.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Bride of Frankenstein[/COLOR]</title>
+	<meta>
+	<imdb>tt0026138</imdb>
+	<content>movie</content>
+	<title>Bride of Frankenstein</title>
+	<year>1935</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=rYD3-pIF9jQ&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/229/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Bride%20of%20Frankenstein</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Bride+of+Frankenstein?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Bride+of+Frankenstein?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qhbTi2Tzuzuh4m4WFsRtn0SrJN8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Bride of Frankenstein[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Bride+of+Frankenstein</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qhbTi2Tzuzuh4m4WFsRtn0SrJN8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Innocents[/COLOR]</title>
+	<meta>
+	<imdb>tt0055018</imdb>
+	<content>movie</content>
+	<title>The Innocents</title>
+	<year>1961</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=aOsF0S65RR0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/16372/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Innocents</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Innocents?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Innocents?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1niUVi1tcmPqjloreUMw3LqOXGN.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iOk2DIDoHN0DTcSXtHXnRN8i3mu.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Innocents[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Innocents</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1niUVi1tcmPqjloreUMw3LqOXGN.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iOk2DIDoHN0DTcSXtHXnRN8i3mu.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Village of the Damned[/COLOR]</title>
+	<meta>
+	<imdb>tt0054443</imdb>
+	<content>movie</content>
+	<title>Village of the Damned</title>
+	<year>1960</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=YqlozoXVxYM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11773/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Village%20of%20the%20Damned</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Village+of+the+Damned?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Village+of+the+Damned?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8aKOlvk7GGwprapNJQ4EzsbESZ1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vD26dt9ATOulvjej923GfxAjGre.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Village of the Damned[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Village+of+the+Damned</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8aKOlvk7GGwprapNJQ4EzsbESZ1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vD26dt9ATOulvjej923GfxAjGre.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Creature from the Black Lagoon[/COLOR]</title>
+	<meta>
+	<imdb>tt0046876</imdb>
+	<content>movie</content>
+	<title>Creature from the Black Lagoon</title>
+	<year>1954</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=xNvnrnfginw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10973/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Creature%20from%20the%20Black%20Lagoon</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Creature+from+the+Black+Lagoon?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Creature+from+the+Black+Lagoon?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6JQZ78pOixvae5qhJQnR8wwqSjy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bQLroCsrg1WJhuThfWw6ss3IDbc.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Creature from the Black Lagoon[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Creature+from+the+Black+Lagoon</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6JQZ78pOixvae5qhJQnR8wwqSjy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bQLroCsrg1WJhuThfWw6ss3IDbc.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Shining[/COLOR]</title>
+	<meta>
+	<imdb>tt0081505</imdb>
+	<content>movie</content>
+	<title>The Shining</title>
+	<year>1980</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=S014oGZiSdI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/694/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Shining</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Shining?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Shining?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Shining[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Shining</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Thing from Another World[/COLOR]</title>
+	<meta>
+	<imdb>tt0044121</imdb>
+	<content>movie</content>
+	<title>The Thing from Another World</title>
+	<year>1951</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=vs2lXH1aFZ0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10785/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Thing%20from%20Another%20World</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Thing+from+Another+World?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Thing+from+Another+World?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/33uyKJtMnrZCzt7oVaeTHRRCUIk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/30aHDHSHGX4HEeKlrgCwhTU72QP.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Thing from Another World[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Thing+from+Another+World</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/33uyKJtMnrZCzt7oVaeTHRRCUIk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/30aHDHSHGX4HEeKlrgCwhTU72QP.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]A Nightmare on Elm Street[/COLOR]</title>
+	<meta>
+	<imdb>tt0087800</imdb>
+	<content>movie</content>
+	<title>A Nightmare on Elm Street</title>
+	<year>1984</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Adgp0v_mfTk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/377/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=A%20Nightmare%20on%20Elm%20Street</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/A+Nightmare+on+Elm+Street?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/A+Nightmare+on+Elm+Street?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/67qMLI58HmQ5ArBsTVBxG4KHuRJ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]A Nightmare on Elm Street[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=A+Nightmare+on+Elm+Street</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/67qMLI58HmQ5ArBsTVBxG4KHuRJ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Mummy[/COLOR]</title>
+	<meta>
+	<imdb>tt0023245</imdb>
+	<content>movie</content>
+	<title>The Mummy</title>
+	<year>1932</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=W2W6tXnd5nU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/15849/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Mummy</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Mummy?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Mummy?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vSKpbZVvzqQcw6htiyEinbCY9vq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nbUNY5dKHtRIeTkO9z66ITFxM9E.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Mummy[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Mummy</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vSKpbZVvzqQcw6htiyEinbCY9vq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nbUNY5dKHtRIeTkO9z66ITFxM9E.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Howling[/COLOR]</title>
+	<meta>
+	<imdb>tt0082533</imdb>
+	<content>movie</content>
+	<title>The Howling</title>
+	<year>1981</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=A31Nzr6ih9U&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11298/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Howling</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Howling?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Howling?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gBumtp54DoLTY7c1A4zxFfipdN8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iOKTQKvH6VQBIfm7DKeqp86b2xp.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Howling[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Howling</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gBumtp54DoLTY7c1A4zxFfipdN8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iOKTQKvH6VQBIfm7DKeqp86b2xp.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]28 Days Later[/COLOR]</title>
+	<meta>
+	<imdb>tt0289043</imdb>
+	<content>movie</content>
+	<title>28 Days Later</title>
+	<year>2002</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=MHMdWUeYudk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/170/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=28%20Days%20Later</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/28+Days+Later?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/28+Days+Later?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sQckQRt17VaWbo39GIu0TMOiszq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/veUl0QT8swshQ9Dz0fQ1k6ZkthD.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]28 Days Later[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=28+Days+Later</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sQckQRt17VaWbo39GIu0TMOiszq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/veUl0QT8swshQ9Dz0fQ1k6ZkthD.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Rosemary s Baby[/COLOR]</title>
+	<meta>
+	<imdb>tt0063522</imdb>
+	<content>movie</content>
+	<title>Rosemary s Baby</title>
+	<year>1968</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=jwqMv_ci2jU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/805/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Rosemary%20s%20Baby</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Rosemary+s+Baby?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Rosemary+s+Baby?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rDBHzuuA5uFrc9KbsksrsPvuzgA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bhGhF4Ele7xzSNiK2E32JpIPrEJ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Rosemary s Baby[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Rosemary+s+Baby</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rDBHzuuA5uFrc9KbsksrsPvuzgA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bhGhF4Ele7xzSNiK2E32JpIPrEJ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Tenebrae[/COLOR]</title>
+	<meta>
+	<imdb>tt0084777</imdb>
+	<content>movie</content>
+	<title>Tenebrae</title>
+	<year>1982</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=k2oKGaAc3m4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/29702/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Tenebrae</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Tenebrae?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Tenebrae?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/x19TryVWyjoJCjVeQYqYKXNgNMr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/fJqAdFT1FvYiGl4ZdhppnobJqfq.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Tenebrae[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Tenebrae</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/x19TryVWyjoJCjVeQYqYKXNgNMr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/fJqAdFT1FvYiGl4ZdhppnobJqfq.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]REC[/COLOR]</title>
+	<meta>
+	<imdb>tt1038988</imdb>
+	<content>movie</content>
+	<title>REC</title>
+	<year>2007</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=OeaUokzE9fI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/8329/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=REC</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/REC?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/REC?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/sYZPRfv7OvtS8KOvZ5OojOaiI7F.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]REC[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=REC</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/sYZPRfv7OvtS8KOvZ5OojOaiI7F.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Cat People[/COLOR]</title>
+	<meta>
+	<imdb>tt0034587</imdb>
+	<content>movie</content>
+	<title>Cat People</title>
+	<year>1942</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=y7iL_9sbpV4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/25508/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Cat%20People</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Cat+People?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Cat+People?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lwgXL7AVNdKmbp0QVZJFY4a4tIx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/gDgGv0TGkxrFAYgO3q50Hl6ScxU.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Cat People[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Cat+People</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lwgXL7AVNdKmbp0QVZJFY4a4tIx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/gDgGv0TGkxrFAYgO3q50Hl6ScxU.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Fly[/COLOR]</title>
+	<meta>
+	<imdb>tt0091064</imdb>
+	<content>movie</content>
+	<title>The Fly</title>
+	<year>1986</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=a2S__Sn5lQw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9426/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Fly</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Fly?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Fly?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wLnulyRMhZfrXr7qaufBFv5H1us.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/dtP5Q556gG2FAXEQ8XvILmQBn9.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Fly[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Fly</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wLnulyRMhZfrXr7qaufBFv5H1us.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/dtP5Q556gG2FAXEQ8XvILmQBn9.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]White Zombie[/COLOR]</title>
+	<meta>
+	<imdb>tt0023694</imdb>
+	<content>movie</content>
+	<title>White Zombie</title>
+	<year>1932</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=bEdSN3UIOOA&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/26860/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=White%20Zombie</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/White+Zombie?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/White+Zombie?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wX17Hu8yXrYbjp6RRPHdtA2zXuz.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]White Zombie[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=White+Zombie</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wX17Hu8yXrYbjp6RRPHdtA2zXuz.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Hills Have Eyes[/COLOR]</title>
+	<meta>
+	<imdb>tt0077681</imdb>
+	<content>movie</content>
+	<title>The Hills Have Eyes</title>
+	<year>1977</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=95C1wxkwMeA&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/12262/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Hills%20Have%20Eyes</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Hills+Have+Eyes?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Hills+Have+Eyes?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6cIhcui8y5Lu4D5N9oRCl1WDh9v.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yLkhzhPZkKHKRFh2Cbm2TlsxZ7.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Hills Have Eyes[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Hills+Have+Eyes</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6cIhcui8y5Lu4D5N9oRCl1WDh9v.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yLkhzhPZkKHKRFh2Cbm2TlsxZ7.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]What Ever Happened to Baby Jane[/COLOR]</title>
+	<meta>
+	<imdb>tt0056687</imdb>
+	<content>movie</content>
+	<title>What Ever Happened to Baby Jane</title>
+	<year>1962</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=3qFYjkFCxiE&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10242/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=What%20Ever%20Happened%20to%20Baby%20Jane</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/What+Ever+Happened+to+Baby+Jane?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/What+Ever+Happened+to+Baby+Jane?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/grPLgfUsWlWLlylytBbC8E8DCnS.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4v04U4UKHwQYN0vqcRsbEYInng0.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]What Ever Happened to Baby Jane[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=What+Ever+Happened+to+Baby+Jane</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/grPLgfUsWlWLlylytBbC8E8DCnS.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4v04U4UKHwQYN0vqcRsbEYInng0.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Exorcist[/COLOR]</title>
+	<meta>
+	<imdb>tt0070047</imdb>
+	<content>movie</content>
+	<title>The Exorcist</title>
+	<year>1973</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=PkrN-l4G8U4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9552/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Exorcist</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Exorcist?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Exorcist?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xcjJ5khg2yzOa282mza39Lbrm7j.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Exorcist[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Exorcist</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xcjJ5khg2yzOa282mza39Lbrm7j.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Hellraiser[/COLOR]</title>
+	<meta>
+	<imdb>tt0093177</imdb>
+	<content>movie</content>
+	<title>Hellraiser</title>
+	<year>1987</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=OpEQNEHKdXg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9003/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Hellraiser</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Hellraiser?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Hellraiser?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rKjE17ncAGNzeImNWbdGTimzjtk.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Hellraiser[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Hellraiser</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rKjE17ncAGNzeImNWbdGTimzjtk.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Ginger Snaps[/COLOR]</title>
+	<meta>
+	<imdb>tt0210070</imdb>
+	<content>movie</content>
+	<title>Ginger Snaps</title>
+	<year>2000</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Zoa1A987A_k&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9871/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Ginger%20Snaps</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Ginger+Snaps?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Ginger+Snaps?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vzti8aixySj6DBeo1e6XInZSxuZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/teXE7kLua0REIVFR0Vx8xOcJ3Ii.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Ginger Snaps[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Ginger+Snaps</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vzti8aixySj6DBeo1e6XInZSxuZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/teXE7kLua0REIVFR0Vx8xOcJ3Ii.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Dr Jekyll and Mr Hyde[/COLOR]</title>
+	<meta>
+	<imdb>tt0022835</imdb>
+	<content>movie</content>
+	<title>Dr Jekyll and Mr Hyde</title>
+	<year>1932</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=GynMi0E7B5g&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/3019/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Dr%20Jekyll%20and%20Mr%20Hyde</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Dr+Jekyll+and+Mr+Hyde?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Dr+Jekyll+and+Mr+Hyde?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ucQxfeUc6MUHgCvDLDUNA1ZyOuQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Dr Jekyll and Mr Hyde[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Dr+Jekyll+and+Mr+Hyde</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ucQxfeUc6MUHgCvDLDUNA1ZyOuQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Omen[/COLOR]</title>
+	<meta>
+	<imdb>tt0075005</imdb>
+	<content>movie</content>
+	<title>The Omen</title>
+	<year>1976</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=cvrv8U5MfS4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/794/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Omen</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Omen?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Omen?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/91VOcD1TIS5FU7GtxcrrfgDw1EB.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/gwGqOoYUVFBlNsuqM5OEtgC8KL2.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Omen[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Omen</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/91VOcD1TIS5FU7GtxcrrfgDw1EB.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/gwGqOoYUVFBlNsuqM5OEtgC8KL2.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Candyman[/COLOR]</title>
+	<meta>
+	<imdb>tt0103919</imdb>
+	<content>movie</content>
+	<title>Candyman</title>
+	<year>1992</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=RnzzBssg3ac&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9529/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Candyman</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Candyman?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Candyman?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5brYGj4julFReqOSNLwS1otIO8c.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vPDtur0rXAnEMqdYAnLO41aSDoO.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Candyman[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Candyman</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5brYGj4julFReqOSNLwS1otIO8c.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vPDtur0rXAnEMqdYAnLO41aSDoO.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Carnival of Souls[/COLOR]</title>
+	<meta>
+	<imdb>tt0055830</imdb>
+	<content>movie</content>
+	<title>Carnival of Souls</title>
+	<year>1962</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=q0w_4vaGqD8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/16093/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Carnival%20of%20Souls</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Carnival+of+Souls?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Carnival+of+Souls?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tDiFMJ3Lrzyo7vIW56giUDfLYKU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/42Qw609wFkUFLlNHTHp4zyDFGS9.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Carnival of Souls[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Carnival+of+Souls</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tDiFMJ3Lrzyo7vIW56giUDfLYKU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/42Qw609wFkUFLlNHTHp4zyDFGS9.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]House of Wax[/COLOR]</title>
+	<meta>
+	<imdb>tt0045888</imdb>
+	<content>movie</content>
+	<title>House of Wax</title>
+	<year>1953</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=3HeTKy1x4j4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/18573/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=House%20of%20Wax</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/House+of+Wax?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/House+of+Wax?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mzJiyWeX8QsOOYCa0gESTn91rfm.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/dNRjBNbwQAx4v4lgv4GR0PAzqXC.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]House of Wax[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=House+of+Wax</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mzJiyWeX8QsOOYCa0gESTn91rfm.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/dNRjBNbwQAx4v4lgv4GR0PAzqXC.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Witchfinder General[/COLOR]</title>
+	<meta>
+	<imdb>tt0063285</imdb>
+	<content>movie</content>
+	<title>Witchfinder General</title>
+	<year>1968</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=98gzk6VSzfU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/31965/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Witchfinder%20General</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Witchfinder+General?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Witchfinder+General?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ra83NoGOZ9hWhQZCXqh6wQBgdkd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/d0kkv3CzlSClEF11O2SIpCvMKyR.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Witchfinder General[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Witchfinder+General</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ra83NoGOZ9hWhQZCXqh6wQBgdkd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/d0kkv3CzlSClEF11O2SIpCvMKyR.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Return of the Living Dead[/COLOR]</title>
+	<meta>
+	<imdb>tt0089907</imdb>
+	<content>movie</content>
+	<title>The Return of the Living Dead</title>
+	<year>1985</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=GkhCAV3wmIU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10925/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Return%20of%20the%20Living%20Dead</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Return+of+the+Living+Dead?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Return+of+the+Living+Dead?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1j5YmfM69iIBkHU7NM7XrADmxdx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/14h57Khhp9hi11aJivH58u5tFyR.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Return of the Living Dead[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Return+of+the+Living+Dead</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1j5YmfM69iIBkHU7NM7XrADmxdx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/14h57Khhp9hi11aJivH58u5tFyR.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Last Man on Earth[/COLOR]</title>
+	<meta>
+	<imdb>tt0058700</imdb>
+	<content>movie</content>
+	<title>The Last Man on Earth</title>
+	<year>1964</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=i4mYireNvcg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/21159/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Last%20Man%20on%20Earth</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Last+Man+on+Earth?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Last+Man+on+Earth?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2IAQ28BwILdhrCAGQZMvARsPSri.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9IApWHVAtkXuVdSOnvji3n5zLcq.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Last Man on Earth[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Last+Man+on+Earth</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2IAQ28BwILdhrCAGQZMvARsPSri.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9IApWHVAtkXuVdSOnvji3n5zLcq.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Let s Scare Jessica to Death[/COLOR]</title>
+	<meta>
+	<imdb>tt0067341</imdb>
+	<content>movie</content>
+	<title>Let s Scare Jessica to Death</title>
+	<year>1971</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=cX4eZD3GiL0&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/16154/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Let%20s%20Scare%20Jessica%20to%20Death</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Let+s+Scare+Jessica+to+Death?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Let+s+Scare+Jessica+to+Death?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9vZ5mRGPzaPCaoa4b58k837orvF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9yNeSl7d3MPxn7fBUVxMQvasaej.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Let s Scare Jessica to Death[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Let+s+Scare+Jessica+to+Death</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9vZ5mRGPzaPCaoa4b58k837orvF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9yNeSl7d3MPxn7fBUVxMQvasaej.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Thing[/COLOR]</title>
+	<meta>
+	<imdb>tt0084787</imdb>
+	<content>movie</content>
+	<title>The Thing</title>
+	<year>1982</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=p35JDJLa9ec&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1091/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Thing</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Thing?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Thing?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tzGY49kseSE9QAKk47uuDGwnSCu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lS9oEknIMaNvIm2zpXg5MXDDmZx.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Thing[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Thing</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tzGY49kseSE9QAKk47uuDGwnSCu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lS9oEknIMaNvIm2zpXg5MXDDmZx.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]A Tale of Two Sisters[/COLOR]</title>
+	<meta>
+	<imdb>tt0365376</imdb>
+	<content>movie</content>
+	<title>A Tale of Two Sisters</title>
+	<year>2003</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=anF5XiN8QY8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/4552/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=A%20Tale%20of%20Two%20Sisters</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/A+Tale+of+Two+Sisters?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/A+Tale+of+Two+Sisters?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tM7uHa2Km5gSakooTQsZLwit3PK.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]A Tale of Two Sisters[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=A+Tale+of+Two+Sisters</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tM7uHa2Km5gSakooTQsZLwit3PK.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Gojira[/COLOR]</title>
+	<meta>
+	<imdb>tt0047034</imdb>
+	<content>movie</content>
+	<title>Gojira</title>
+	<year>1954</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=VKrj1ymJzmo&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/1678/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Gojira</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Gojira?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Gojira?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mK6yZshEm8FtvElOaWWBEl35HgR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9kskVRVgXkiCWrWXEelMeadrf53.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Gojira[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Gojira</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mK6yZshEm8FtvElOaWWBEl35HgR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9kskVRVgXkiCWrWXEelMeadrf53.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Invasion of the Body Snatchers[/COLOR]</title>
+	<meta>
+	<imdb>tt0049366</imdb>
+	<content>movie</content>
+	<title>Invasion of the Body Snatchers</title>
+	<year>1956</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=0LD3Bz_L0Rk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11549/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Invasion%20of%20the%20Body%20Snatchers</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Invasion+of+the+Body+Snatchers?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Invasion+of+the+Body+Snatchers?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/hEOOqvdqvqrhxLYv1OGutmR3v1p.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Invasion of the Body Snatchers[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Invasion+of+the+Body+Snatchers</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/hEOOqvdqvqrhxLYv1OGutmR3v1p.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Black Sunday[/COLOR]</title>
+	<meta>
+	<imdb>tt0054067</imdb>
+	<content>movie</content>
+	<title>Black Sunday</title>
+	<year>1960</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=1Q5nV12AgVc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/27632/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Black%20Sunday</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Black+Sunday?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Black+Sunday?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2ODBpNEHabkgHZXHh2znihGmQWt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/g7utu84ZPvQtbVpml5cuRH7hjfQ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Black Sunday[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black+Sunday</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2ODBpNEHabkgHZXHh2znihGmQWt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/g7utu84ZPvQtbVpml5cuRH7hjfQ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Videodrome[/COLOR]</title>
+	<meta>
+	<imdb>tt0086541</imdb>
+	<content>movie</content>
+	<title>Videodrome</title>
+	<year>1983</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=UFHey3utk0I&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/837/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Videodrome</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Videodrome?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Videodrome?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dBqp1SxlqnJEHYDM9sNelXoQsO1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rjinOPH5Mlcw6d59CrnqHKFEVfS.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Videodrome[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Videodrome</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dBqp1SxlqnJEHYDM9sNelXoQsO1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rjinOPH5Mlcw6d59CrnqHKFEVfS.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Silence of the Lambs[/COLOR]</title>
+	<meta>
+	<imdb>tt0102926</imdb>
+	<content>movie</content>
+	<title>The Silence of the Lambs</title>
+	<year>1991</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=8xWbc_kFus4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/274/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Silence%20of%20the%20Lambs</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Silence+of+the+Lambs?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Silence+of+the+Lambs?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/pI9B4wppGflpsOD2T6rxgC5Clmz.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Silence of the Lambs[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Silence+of+the+Lambs</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/pI9B4wppGflpsOD2T6rxgC5Clmz.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]High Tension[/COLOR]</title>
+	<meta>
+	<imdb>tt0338095</imdb>
+	<content>movie</content>
+	<title>High Tension</title>
+	<year>2003</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=ZfkysYCxTdU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10226/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=High%20Tension</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/High+Tension?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/High+Tension?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l9G5fnjwLZmHsl3bQuSFyMPle7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ecn4qv1SzQaZ8jMyPPs307UqKxa.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]High Tension[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=High+Tension</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l9G5fnjwLZmHsl3bQuSFyMPle7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ecn4qv1SzQaZ8jMyPPs307UqKxa.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]House of Usher[/COLOR]</title>
+	<meta>
+	<imdb>tt0053925</imdb>
+	<content>movie</content>
+	<title>House of Usher</title>
+	<year>1960</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=sxJzAZpGqwI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/23439/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=House%20of%20Usher</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/House+of+Usher?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/House+of+Usher?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jEzZOrGSWpl0jKOIXoY3OnEabLQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bNFtjsp9v95DL9iL20Gue4gMddZ.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]House of Usher[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=House+of+Usher</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jEzZOrGSWpl0jKOIXoY3OnEabLQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bNFtjsp9v95DL9iL20Gue4gMddZ.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Evil Dead II[/COLOR]</title>
+	<meta>
+	<imdb>tt0092991</imdb>
+	<content>movie</content>
+	<title>Evil Dead II</title>
+	<year>1987</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=6lM3NPeEG24&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/765/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Evil%20Dead%20II</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Evil+Dead+II?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Evil+Dead+II?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8dnbGCISyBRxv5eYbN903H9SV0O.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/a8AAxEhD0gNzYR8Psfd1uoXf6qg.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Evil Dead II[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Evil+Dead+II</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8dnbGCISyBRxv5eYbN903H9SV0O.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/a8AAxEhD0gNzYR8Psfd1uoXf6qg.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Sixth Sense[/COLOR]</title>
+	<meta>
+	<imdb>tt0167404</imdb>
+	<content>movie</content>
+	<title>The Sixth Sense</title>
+	<year>1999</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=VG9AGf66tXM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/745/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Sixth%20Sense</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Sixth+Sense?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Sixth+Sense?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Sixth Sense[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Sixth+Sense</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Cabinet of Dr Caligari[/COLOR]</title>
+	<meta>
+	<imdb>tt0010323</imdb>
+	<content>movie</content>
+	<title>The Cabinet of Dr Caligari</title>
+	<year>1920</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=gkPdvRontMc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/234/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Cabinet%20of%20Dr%20Caligari</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Cabinet+of+Dr+Caligari?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Cabinet+of+Dr+Caligari?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/m0N89MIIu6qYZcujCRzBHrkZbns.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Cabinet of Dr Caligari[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Cabinet+of+Dr+Caligari</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/m0N89MIIu6qYZcujCRzBHrkZbns.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]House on Haunted Hill[/COLOR]</title>
+	<meta>
+	<imdb>tt0051744</imdb>
+	<content>movie</content>
+	<title>House on Haunted Hill</title>
+	<year>1959</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=F1wVvWL0pJU&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/15856/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=House%20on%20Haunted%20Hill</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/House+on+Haunted+Hill?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/House+on+Haunted+Hill?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kT9hUg5ZfdsgoG9HirXVkqaQHH2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mYkUOlPxXxgAbsl42IgDa3bgdzw.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]House on Haunted Hill[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=House+on+Haunted+Hill</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kT9hUg5ZfdsgoG9HirXVkqaQHH2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mYkUOlPxXxgAbsl42IgDa3bgdzw.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Audition[/COLOR]</title>
+	<meta>
+	<imdb>tt0235198</imdb>
+	<content>movie</content>
+	<title>Audition</title>
+	<year>2000</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=yhsrsWcEspc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11075/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Audition</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Audition?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Audition?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/d6P8hGLpPFmVmAcBDLySD3Wzs0b.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xmtmZc5aylqDMRKYlU8pmsgG0HF.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Audition[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Audition</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/d6P8hGLpPFmVmAcBDLySD3Wzs0b.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xmtmZc5aylqDMRKYlU8pmsgG0HF.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Frankenstein[/COLOR]</title>
+	<meta>
+	<imdb>tt0021884</imdb>
+	<content>movie</content>
+	<title>Frankenstein</title>
+	<year>1931</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=bKyiXjyVsfw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/3035/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Frankenstein</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Frankenstein?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Frankenstein?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jFpc9w3RmYeaOXMEfrtgshwVf4u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Frankenstein[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Frankenstein</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jFpc9w3RmYeaOXMEfrtgshwVf4u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Invisible Man[/COLOR]</title>
+	<meta>
+	<imdb>tt0024184</imdb>
+	<content>movie</content>
+	<title>The Invisible Man</title>
+	<year>1933</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=GFtbiFgaAiM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/10787/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Invisible%20Man</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Invisible+Man?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Invisible+Man?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ly4uoo0MlMIyy4qFAOPGtULugmE.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zDn6FKwG7V5SuJcA6M8xggS0Z41.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Invisible Man[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Invisible+Man</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ly4uoo0MlMIyy4qFAOPGtULugmE.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zDn6FKwG7V5SuJcA6M8xggS0Z41.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Them![/COLOR]</title>
+	<meta>
+	<imdb>tt0047573</imdb>
+	<content>movie</content>
+	<title>Them!</title>
+	<year>1954</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=2oRE2p_OHC8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11071/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Them!</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Them!?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Them!?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lnvPejbp9gF1yNBHi56d89XbRvD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bGhkhfmY4doV1UFvqXvRss4qnsG.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Them![/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Them!</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lnvPejbp9gF1yNBHi56d89XbRvD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bGhkhfmY4doV1UFvqXvRss4qnsG.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Curse of the Demon[/COLOR]</title>
+	<meta>
+	<imdb>tt0050766</imdb>
+	<content>movie</content>
+	<title>Curse of the Demon</title>
+	<year>1957</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=kCp-c_buFlw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/25103/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Curse%20of%20the%20Demon</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Curse+of+the+Demon?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Curse+of+the+Demon?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7VnwPylFw3prF7B62t5EpTeXWRj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3k7GViJ1WN16Py3a7hccE2o4muz.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Curse of the Demon[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Curse+of+the+Demon</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7VnwPylFw3prF7B62t5EpTeXWRj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3k7GViJ1WN16Py3a7hccE2o4muz.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Onibaba[/COLOR]</title>
+	<meta>
+	<imdb>tt0058430</imdb>
+	<content>movie</content>
+	<title>Onibaba</title>
+	<year>1964</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Y5mFJGSbdYs&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/3763/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Onibaba</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Onibaba?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Onibaba?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3jRBxiATS9HqbbPzoxUN3uq2D9g.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/AcAMkNfQ21cL7EJzs5eVx24k3H4.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Onibaba[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Onibaba</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/3jRBxiATS9HqbbPzoxUN3uq2D9g.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/AcAMkNfQ21cL7EJzs5eVx24k3H4.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Hitcher[/COLOR]</title>
+	<meta>
+	<imdb>tt0091209</imdb>
+	<content>movie</content>
+	<title>The Hitcher</title>
+	<year>1986</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=iMTznJra0iw&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9542/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Hitcher</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Hitcher?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Hitcher?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7K2ZCt4DOScKQCxfIKk6dNmWVNP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ngLiBRgcfq3QnTmihh1v3EJyLV0.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Hitcher[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Hitcher</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7K2ZCt4DOScKQCxfIKk6dNmWVNP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ngLiBRgcfq3QnTmihh1v3EJyLV0.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Fog[/COLOR]</title>
+	<meta>
+	<imdb>tt0080749</imdb>
+	<content>movie</content>
+	<title>The Fog</title>
+	<year>1980</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=nOZwnivtLbc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/790/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Fog</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Fog?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Fog?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/12EeSboRofP3CI4SPmMFNNXCbtY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/fzCKIdOe48m8sRm8Y0F3PQTtDdu.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Fog[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Fog</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/12EeSboRofP3CI4SPmMFNNXCbtY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/fzCKIdOe48m8sRm8Y0F3PQTtDdu.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Creepshow[/COLOR]</title>
+	<meta>
+	<imdb>tt0083767</imdb>
+	<content>movie</content>
+	<title>Creepshow</title>
+	<year>1982</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=QaIEwxkDPww&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/16281/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Creepshow</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Creepshow?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Creepshow?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vYf9bMGFnhfN9E3bTtOIR4TgG2H.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8GVuoW6j7CYT6SB3Jt8ZYJmka4Z.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Creepshow[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Creepshow</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vYf9bMGFnhfN9E3bTtOIR4TgG2H.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8GVuoW6j7CYT6SB3Jt8ZYJmka4Z.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Body Snatcher[/COLOR]</title>
+	<meta>
+	<imdb>tt0037549</imdb>
+	<content>movie</content>
+	<title>The Body Snatcher</title>
+	<year>1945</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=CM2ZwiLzR30&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/30346/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Body%20Snatcher</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Body+Snatcher?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Body+Snatcher?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1dOCP2ahMVlA95SivxhEdVvcXZE.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/1kCED0hDzrsCQOZfo4jft3O3gyN.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Body Snatcher[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Body+Snatcher</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1dOCP2ahMVlA95SivxhEdVvcXZE.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/1kCED0hDzrsCQOZfo4jft3O3gyN.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Alice, Sweet Alice[/COLOR]</title>
+	<meta>
+	<imdb>tt0076150</imdb>
+	<content>movie</content>
+	<title>Alice, Sweet Alice</title>
+	<year>1976</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=C_CHiI1V4gE&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/23761/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Alice,%20Sweet%20Alice</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Alice,+Sweet+Alice?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Alice,+Sweet+Alice?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/izawwwy80RH7U7YKkdV1OpdPohZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5hs1CWBoVbludPeXj61rhyRuAS3.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Alice, Sweet Alice[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Alice,+Sweet+Alice</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/izawwwy80RH7U7YKkdV1OpdPohZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5hs1CWBoVbludPeXj61rhyRuAS3.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Suspiria[/COLOR]</title>
+	<meta>
+	<imdb>tt0076786</imdb>
+	<content>movie</content>
+	<title>Suspiria</title>
+	<year>1977</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=xCdJR1JwTI4&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11906/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Suspiria</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Suspiria?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Suspiria?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/i8lyb818XNNGaXiL6qHSxVNodKy.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Suspiria[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Suspiria</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/i8lyb818XNNGaXiL6qHSxVNodKy.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Day of the Dead[/COLOR]</title>
+	<meta>
+	<imdb>tt0088993</imdb>
+	<content>movie</content>
+	<title>Day of the Dead</title>
+	<year>1985</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=oATJVC5R0FA&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/8408/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Day%20of%20the%20Dead</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Day+of+the+Dead?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Day+of+the+Dead?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bTvc9hzculIuScIZwWz4faa4dOu.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Day of the Dead[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Day+of+the+Dead</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bTvc9hzculIuScIZwWz4faa4dOu.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Jacob s Ladder[/COLOR]</title>
+	<meta>
+	<imdb>tt0099871</imdb>
+	<content>movie</content>
+	<title>Jacob s Ladder</title>
+	<year>1990</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=BZE9bHKmkVM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/2291/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Jacob%20s%20Ladder</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Jacob+s+Ladder?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Jacob+s+Ladder?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1BcINsarvlpmhNJu0XFdBVnEPrj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2vfs5S0mAcQsy2jPtrO3QytKzaO.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Jacob s Ladder[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Jacob+s+Ladder</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1BcINsarvlpmhNJu0XFdBVnEPrj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2vfs5S0mAcQsy2jPtrO3QytKzaO.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Les yeux sans visage[/COLOR]</title>
+	<meta>
+	<imdb>tt0053459</imdb>
+	<content>movie</content>
+	<title>Les yeux sans visage</title>
+	<year>1960</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=CEjrg-L8lvs&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/31417/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Les%20yeux%20sans%20visage</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Les+yeux+sans+visage?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Les+yeux+sans+visage?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2frRblHWpYloaAtDItM5vDwWCxm.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Les yeux sans visage[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Les+yeux+sans+visage</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2frRblHWpYloaAtDItM5vDwWCxm.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Wicker Man[/COLOR]</title>
+	<meta>
+	<imdb>tt0070917</imdb>
+	<content>movie</content>
+	<title>The Wicker Man</title>
+	<year>1973</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=5FdV-O8o7ok&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/16307/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Wicker%20Man</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Wicker+Man?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Wicker+Man?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dSdSWqc9lLxEMl00k4WFaLe4D1F.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xOcVqlNnVUEQhQ3Xqhgh7mqeh9f.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Wicker Man[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Wicker+Man</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dSdSWqc9lLxEMl00k4WFaLe4D1F.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xOcVqlNnVUEQhQ3Xqhgh7mqeh9f.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Duel[/COLOR]</title>
+	<meta>
+	<imdb>tt0067023</imdb>
+	<content>movie</content>
+	<title>Duel</title>
+	<year>1971</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=IgK17QSWugM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/839/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Duel</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Duel?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Duel?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tMXG6QQ4dcunbxkHlA7Pek9LZM7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nVl6SKKzuweWqDo56Iipov2tqm0.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Duel[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Duel</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tMXG6QQ4dcunbxkHlA7Pek9LZM7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nVl6SKKzuweWqDo56Iipov2tqm0.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Fright Night[/COLOR]</title>
+	<meta>
+	<imdb>tt0089175</imdb>
+	<content>movie</content>
+	<title>Fright Night</title>
+	<year>1985</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=a_rgrxuv460&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11797/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Fright%20Night</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Fright+Night?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Fright+Night?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/x6Vd1fkfHvuCiXBOhp3sxyzVRls.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nvSOYZWsNk4bqszO55OhayAZVM2.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Fright Night[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Fright+Night</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/x6Vd1fkfHvuCiXBOhp3sxyzVRls.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nvSOYZWsNk4bqszO55OhayAZVM2.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Bird with the Crystal Plumage[/COLOR]</title>
+	<meta>
+	<imdb>tt0065143</imdb>
+	<content>movie</content>
+	<title>The Bird with the Crystal Plumage</title>
+	<year>1970</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=kqQqSGHFUOs&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/20345/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Bird%20with%20the%20Crystal%20Plumage</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Bird+with+the+Crystal+Plumage?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Bird+with+the+Crystal+Plumage?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/R4kmKsGKvhAQn5xq98zs8JHL8c.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/f44PGMz7qPRAmCfb2grzTczL1uh.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Bird with the Crystal Plumage[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Bird+with+the+Crystal+Plumage</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/R4kmKsGKvhAQn5xq98zs8JHL8c.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/f44PGMz7qPRAmCfb2grzTczL1uh.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Army of Darkness[/COLOR]</title>
+	<meta>
+	<imdb>tt0106308</imdb>
+	<content>movie</content>
+	<title>Army of Darkness</title>
+	<year>1992</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=gasZjgyMxeg&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/766/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Army%20of%20Darkness</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Army+of+Darkness?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Army+of+Darkness?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mOsWtjRGABrPrqqtm0U6WQp4GVw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xErw1pfmyWYQcXIlXipPY3O9uRH.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Army of Darkness[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Army+of+Darkness</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mOsWtjRGABrPrqqtm0U6WQp4GVw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xErw1pfmyWYQcXIlXipPY3O9uRH.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]From Dusk Till Dawn[/COLOR]</title>
+	<meta>
+	<imdb>tt0116367</imdb>
+	<content>movie</content>
+	<title>From Dusk Till Dawn</title>
+	<year>1996</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=jNuIn4T-CLk&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/755/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=From%20Dusk%20Till%20Dawn</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/From+Dusk+Till+Dawn?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/From+Dusk+Till+Dawn?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lYVVFWqLXaZAdACwf8YNStEmPHn.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]From Dusk Till Dawn[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=From+Dusk+Till+Dawn</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lYVVFWqLXaZAdACwf8YNStEmPHn.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Final Destination[/COLOR]</title>
+	<meta>
+	<imdb>tt0195714</imdb>
+	<content>movie</content>
+	<title>Final Destination</title>
+	<year>2000</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=lP4Psj7d1ZI&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/9532/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Final%20Destination</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Final+Destination?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Final+Destination?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/418vOdcfd268Fs0Zk9Jdaokn8l2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7LU0ryVKd0AkmENyEzCYiGullu5.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Final Destination[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Final+Destination</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/418vOdcfd268Fs0Zk9Jdaokn8l2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7LU0ryVKd0AkmENyEzCYiGullu5.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Last House on the Left[/COLOR]</title>
+	<meta>
+	<imdb>tt0068833</imdb>
+	<content>movie</content>
+	<title>The Last House on the Left</title>
 	<year>1972</year>
 	</meta>
 	<link>
-<sublink name=[COLOR limegreen]Platinum Link[/COLOR]>search</sublink>
-<sublink name=[COLOR springgreen]Silver Link[/COLOR]>searchsd</sublink>
-</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg</fanart>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=nIJwP5DsUsA&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/15516/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Last%20House%20on%20the%20Left</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Last+House+on+the+Left?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Last+House+on+the+Left?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4TfocMVdx0bqQcFj6DUYjetwBNc.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mjxuTe76rA1C9btJtTwb8RVbeng.jpg</fanart>
 </item>
+<plugin>
+	<title>[COLOR=white]The Last House on the Left[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Last+House+on+the+Left</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4TfocMVdx0bqQcFj6DUYjetwBNc.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mjxuTe76rA1C9btJtTwb8RVbeng.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Beyond[/COLOR]</title>
+	<meta>
+	<imdb>tt0082307</imdb>
+	<content>movie</content>
+	<title>The Beyond</title>
+	<year>1981</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Uayv9J90qQo&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/19204/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Beyond</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Beyond?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Beyond?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pks2FnFRxsuuD2ggED8IUJmaRQx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xxCmbkNFuunhYkduVknskgWktuH.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Beyond[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Beyond</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pks2FnFRxsuuD2ggED8IUJmaRQx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xxCmbkNFuunhYkduVknskgWktuH.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Aliens[/COLOR]</title>
+	<meta>
+	<imdb>tt0090605</imdb>
+	<content>movie</content>
+	<title>Aliens</title>
+	<year>1986</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=zBvTd9iFqG8&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/679/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Aliens</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Aliens?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Aliens?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xwdPTZyyBa4U3V2N0EmozTCeEAY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jMBpJFRtrtIXymer93XLavPwI3P.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Aliens[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Aliens</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xwdPTZyyBa4U3V2N0EmozTCeEAY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jMBpJFRtrtIXymer93XLavPwI3P.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Let the Right One In[/COLOR]</title>
+	<meta>
+	<imdb>tt1139797</imdb>
+	<content>movie</content>
+	<title>Let the Right One In</title>
+	<year>2008</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=ICp4g9p_rgo&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/13310/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Let%20the%20Right%20One%20In</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Let+the+Right+One+In?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Let+the+Right+One+In?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cOT8xLAhWdDkbINHsPHDVBtbzmi.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Let the Right One In[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Let+the+Right+One+In</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cOT8xLAhWdDkbINHsPHDVBtbzmi.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Dead of Night[/COLOR]</title>
+	<meta>
+	<imdb>tt0037635</imdb>
+	<content>movie</content>
+	<title>Dead of Night</title>
+	<year>1945</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=0mOIy5U8eaE&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/13581/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Dead%20of%20Night</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Dead+of+Night?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Dead+of+Night?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oVAlugIkLCkyyXufNDhtr5kl3yB.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9usqa6XNwQIduTwWh55F1xx0FLE.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Dead of Night[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Dead+of+Night</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oVAlugIkLCkyyXufNDhtr5kl3yB.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9usqa6XNwQIduTwWh55F1xx0FLE.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Peeping Tom[/COLOR]</title>
+	<meta>
+	<imdb>tt0054167</imdb>
+	<content>movie</content>
+	<title>Peeping Tom</title>
+	<year>1960</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=nAqEn6JS-oM&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/11167/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Peeping%20Tom</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Peeping+Tom?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Peeping+Tom?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tqV6rCGWTQkQcKox6msBedyQC18.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/at7MKqaEIPJQCJa91umTLSJAiKE.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Peeping Tom[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Peeping+Tom</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tqV6rCGWTQkQcKox6msBedyQC18.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/at7MKqaEIPJQCJa91umTLSJAiKE.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]Black Sabbath[/COLOR]</title>
+	<meta>
+	<imdb>tt0057603</imdb>
+	<content>movie</content>
+	<title>Black Sabbath</title>
+	<year>1963</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=LvqT1D7qvrc&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/28043/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Black%20Sabbath</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/Black+Sabbath?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/Black+Sabbath?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oHd2kOCwIEsZtre00qQ2n9S3doa.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tsa6nOAa17qmNnuajKz16D1n0mh.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]Black Sabbath[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=Black+Sabbath</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oHd2kOCwIEsZtre00qQ2n9S3doa.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tsa6nOAa17qmNnuajKz16D1n0mh.jpg</fanart>
+</plugin>
+<item>
+	<title>[COLOR=white]The Masque of the Red Death[/COLOR]</title>
+	<meta>
+	<imdb>tt0058333</imdb>
+	<content>movie</content>
+	<title>The Masque of the Red Death</title>
+	<year>1964</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=ipHY7YO2N0Y&feature=youtu.be (Play Trailer)</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/25319/links/</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=The%20Masque%20of%20the%20Red%20Death</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/The+Masque+of+the+Red+Death?usedefault=True</sublink>
+	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/The+Masque+of+the+Red+Death?usedefault=True</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pPHVp6XVaSK5Hkbmf7HYdrts9kJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vrIYDpzFsjgDQMhb1WaYVpY6ME7.jpg</fanart>
+</item>
+<plugin>
+	<title>[COLOR=white]The Masque of the Red Death[/COLOR]-Search Addon</title>
+	<link>plugin://plugin.video.dk/?action=movieSearchterm&name=The+Masque+of+the+Red+Death</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pPHVp6XVaSK5Hkbmf7HYdrts9kJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vrIYDpzFsjgDQMhb1WaYVpY6ME7.jpg</fanart>
+</plugin>
+
 
 </items>
 
