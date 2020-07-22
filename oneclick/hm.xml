@@ -24,7 +24,7 @@
 </item>
 <plugin>
 	<name>Underwater addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Underwater</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Underwater</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ww7eC3BqSbFsyE5H5qMde8WkxJ2.jpg</fanart>
 </plugin>
@@ -48,7 +48,7 @@
 </item>
 <plugin>
 	<name>The Grudge addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Grudge</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Grudge</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/46a1JNGmCSfoimlxtuxeDquuQ37.jpg</fanart>
 </plugin>
@@ -72,7 +72,7 @@
 </item>
 <plugin>
 	<name>The Turning addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Turning</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Turning</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lYJDf7oa1r9JvRITN1M2Lzis01D.jpg</fanart>
 </plugin>
@@ -96,7 +96,7 @@
 </item>
 <plugin>
 	<name>Gretel & Hansel addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Gretel%20&%20Hansel</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Gretel%20&%20Hansel</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/mBBBXseq4k4dI63k06XIrsc02j8.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/jEPEVO48hKQB0EUNFQOSv6qtKNW.jpg</fanart>
 </plugin>
@@ -120,7 +120,7 @@
 </item>
 <plugin>
 	<name>Ghost Stories addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Ghost%20Stories</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Ghost%20Stories</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/wuTwPYFoEGQG3EntpdZA8LlBBdx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/4FFjYrq5v9ynJeKWcOrg3BZKJjD.jpg</fanart>
 </plugin>
@@ -144,7 +144,7 @@
 </item>
 <plugin>
 	<name>Cupid addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Cupid</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Cupid</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4PPrZ2YEIBF3hlz7V42dc3Q4vPR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lyRmpBEAJHbmzmCQ8Gv8l20YVfg.jpg</fanart>
 </plugin>
@@ -168,7 +168,7 @@
 </item>
 <plugin>
 	<name>Fantasy Island addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Fantasy%20Island</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Fantasy%20Island</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/27WkMAcrLJYgmJcgbNvzMh2qw70.jpg</fanart>
 </plugin>
@@ -192,7 +192,7 @@
 </item>
 <plugin>
 	<name>Bhoot Part One The Haunted Ship addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Bhoot%20Part%20One%20The%20Haunted%20Ship</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Bhoot%20Part%20One%20The%20Haunted%20Ship</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -216,7 +216,7 @@
 </item>
 <plugin>
 	<name>The Invisible Man addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Invisible%20Man</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Invisible%20Man</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg</fanart>
 </plugin>
@@ -240,7 +240,7 @@
 </item>
 <plugin>
 	<name>The Hunt addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Hunt</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Hunt</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/naXUDz0VGK7aaPlEpsuYW8kNVsr.jpg</fanart>
 </plugin>
@@ -264,7 +264,7 @@
 </item>
 <plugin>
 	<name>Brahms The Boy II addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Brahms%20The%20Boy%20II</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Brahms%20The%20Boy%20II</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rpGYHowXtjw37UxdwO1ZcK5E8IN.jpg</fanart>
 </plugin>
@@ -288,7 +288,7 @@
 </item>
 <plugin>
 	<name>Corona Zombies addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Corona%20Zombies</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Corona%20Zombies</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/o6IuBgOC3e4dV72CSEYEVJiivLp.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/bZJFFL7dCgm0dIGAAoBUYEOWe3R.jpg</fanart>
 </plugin>
@@ -312,7 +312,7 @@
 </item>
 <plugin>
 	<name>Light from the Tower addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Light%20from%20the%20Tower</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Light%20from%20the%20Tower</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/zvvKtbT6desJBmGXWXBiX4RbHfk.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/oEo07EvQHihYTAqFJTR4GWNSnhm.jpg</fanart>
 </plugin>
@@ -336,7 +336,7 @@
 </item>
 <plugin>
 	<name>Nobody Sleeps in the Woods Tonight addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Nobody%20Sleeps%20in%20the%20Woods%20Tonight</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Nobody%20Sleeps%20in%20the%20Woods%20Tonight</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -360,7 +360,7 @@
 </item>
 <plugin>
 	<name>Mark of the Devil addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Mark%20of%20the%20Devil</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Mark%20of%20the%20Devil</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/2RcauukLfwBtB7bAKzFhxAnlSKb.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/asKrgRzQfD22ZRne02ScuNa8j5a.jpg</fanart>
 </plugin>
@@ -384,7 +384,7 @@
 </item>
 <plugin>
 	<name>Angels Fallen addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Angels%20Fallen</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Angels%20Fallen</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/9mVHxdtlmTZUpgps2cvPqVeJEtb.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/8RnPa75jnUrxlQr4q6WEqJimahw.jpg</fanart>
 </plugin>
@@ -408,7 +408,7 @@
 </item>
 <plugin>
 	<name>Malasa xc3 xb1a 32 addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Malasa%20xc3%20xb1a%2032</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Malasa%20xc3%20xb1a%2032</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/DpFMAjyE6EmIknSduykVc1pB1J.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/59b4PaPaI52LJJRNRtG3ALyUvJU.jpg</fanart>
 </plugin>
@@ -432,7 +432,7 @@
 </item>
 <plugin>
 	<name>Penance Lane addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Penance%20Lane</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Penance%20Lane</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/bJqvmd4NnMhRTeawKc2y4DhXvBK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/bxKzLK4xHBVk3a8mwtlGFkWaQbc.jpg</fanart>
 </plugin>
@@ -456,7 +456,7 @@
 </item>
 <plugin>
 	<name>Abominable addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Abominable</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Abominable</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/6WSt67yMuCzHR6PsGRQ9ZeAVeze.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/gMXtkksg7MEkWzeTTDqEUPaqqmY.jpg</fanart>
 </plugin>
@@ -480,7 +480,7 @@
 </item>
 <plugin>
 	<name>Dreamkatcher addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Dreamkatcher</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Dreamkatcher</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/nD6Vb3qotU1v4J4757OFh5TJ76I.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wRreALASTO4nXsrJKTwqTLyNjal.jpg</fanart>
 </plugin>
@@ -504,7 +504,7 @@
 </item>
 <plugin>
 	<name>Sputnik addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Sputnik</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Sputnik</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/nNP0t0Tv2zR7PM2G0WZZgTiAw0p.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lGydLXSaDLxN8WoAdubHCnhAgfd.jpg</fanart>
 </plugin>
@@ -528,7 +528,7 @@
 </item>
 <plugin>
 	<name>Possessor addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Possessor</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Possessor</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xk6XO65lFNVu5brmr9pAXe2lKgD.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/1DWIdrj8Qga8N3JaDYjJ8z59k2F.jpg</fanart>
 </plugin>
@@ -552,7 +552,7 @@
 </item>
 <plugin>
 	<name>Don t Speak addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Don%20t%20Speak</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Don%20t%20Speak</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4hxCrEQm1hRVkfpIZAYnDBueGsg.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/231m4Jqn4AT77ZcHHDe1HqBR1Ck.jpg</fanart>
 </plugin>
@@ -576,7 +576,7 @@
 </item>
 <plugin>
 	<name>I Am Fear addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=I%20Am%20Fear</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=I%20Am%20Fear</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -600,7 +600,7 @@
 </item>
 <plugin>
 	<name>Becky addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Becky</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Becky</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xqbQtMffXwa3oprse4jiHBMBvdW.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/qTrpw2ZUvN7ywUu1kieEsvNDrgQ.jpg</fanart>
 </plugin>
@@ -624,7 +624,7 @@
 </item>
 <plugin>
 	<name>Choke addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Choke</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Choke</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xovNkipIjj18yhBjyvocSFS5pu0.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/hv34C1KfdhudK78U2QzQ7RKWqhY.jpg</fanart>
 </plugin>
@@ -648,7 +648,7 @@
 </item>
 <plugin>
 	<name>Body Cam addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Body%20Cam</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Body%20Cam</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/hpi5WO7ND2bejjH2Wtv3jxTOirK.jpg</fanart>
 </plugin>
@@ -672,7 +672,7 @@
 </item>
 <plugin>
 	<name>Dead Earth addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Dead%20Earth</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Dead%20Earth</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/dTEY7mDBVwYnByLJaJKcC4areCG.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aVgU43tfLggQO1vS9Kx3698fJCh.jpg</fanart>
 </plugin>
@@ -695,7 +695,7 @@
 </item>
 <plugin>
 	<name>Inmate Zero addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Inmate%20Zero</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Inmate%20Zero</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/6uSR3687xtyS207S8nYp1voT9mR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/a6Hp2uaV1haPtdhC7qZltPnOhMy.jpg</fanart>
 </plugin>
@@ -719,7 +719,7 @@
 </item>
 <plugin>
 	<name>Behind You addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Behind%20You</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Behind%20You</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/2qcnM2j2gatClqweKytsLmSclgj.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/do4q8TPJYDNf4sJTuCBVEmm597l.jpg</fanart>
 </plugin>
@@ -743,7 +743,7 @@
 </item>
 <plugin>
 	<name>You Should Have Left addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=You%20Should%20Have%20Left</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=You%20Should%20Have%20Left</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/chAGSv4DB9s3fsgULpSZQLN7LgN.jpg</fanart>
 </plugin>
@@ -767,7 +767,7 @@
 </item>
 <plugin>
 	<name>Bulbbul addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Bulbbul</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Bulbbul</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/hwBFGNabkGv2ZIyFUnCTSSmprf7.jpg</fanart>
 </plugin>
@@ -791,7 +791,7 @@
 </item>
 <plugin>
 	<name>Relic addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Relic</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Relic</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vpUUznNzW85xo02H16RaSxRNS1.jpg</fanart>
 </plugin>
@@ -815,7 +815,7 @@
 </item>
 <plugin>
 	<name>The Dinner Party addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Dinner%20Party</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Dinner%20Party</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/vVE1nEvLBf7oD2ftX4XfgWktcxZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/umCz7WD2NDvbt4q3IT0svZI4B2x.jpg</fanart>
 </plugin>
@@ -839,7 +839,7 @@
 </item>
 <plugin>
 	<name>The Host addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Host</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Host</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/c8NBk0FsyhePuFvHmA1XP1XrHrI.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/8I134Ot35xzJ0tEWiyFQmdvi23V.jpg</fanart>
 </plugin>
@@ -863,7 +863,7 @@
 </item>
 <plugin>
 	<name>Siberia addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Siberia</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Siberia</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ysrjsJj14991pvBMNClEAe4Jitb.jpg</fanart>
 </plugin>
@@ -886,7 +886,7 @@
 </item>
 <plugin>
 	<name>The Intruder addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Intruder</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Intruder</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/zGD9CiO6vCk1nmvk0SzlhgYB5fz.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/xDlcgq80BiRr9ZIA5u5CBtperKM.jpg</fanart>
 </plugin>
@@ -909,7 +909,7 @@
 </item>
 <plugin>
 	<name>The Night House addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Night%20House</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Night%20House</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -932,7 +932,7 @@
 </item>
 <plugin>
 	<name>Bad Hair addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Bad%20Hair</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Bad%20Hair</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -955,7 +955,7 @@
 </item>
 <plugin>
 	<name>Isha addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Isha</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Isha</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -979,7 +979,7 @@
 </item>
 <plugin>
 	<name>Aiyai Wrathful Soul addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Aiyai%20Wrathful%20Soul</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Aiyai%20Wrathful%20Soul</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/56Q2h96x7KubP6pmPuWSE2H9DyD.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g2C0ar1P5G5BoNi0vOWYE9R7B79.jpg</fanart>
 </plugin>
@@ -1003,7 +1003,7 @@
 </item>
 <plugin>
 	<name>The Screaming Silent addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=The%20Screaming%20Silent</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=The%20Screaming%20Silent</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -1027,7 +1027,7 @@
 </item>
 <plugin>
 	<name>What Goes Around addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=What%20Goes%20Around</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=What%20Goes%20Around</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280</fanart>
 </plugin>
@@ -1051,7 +1051,7 @@
 </item>
 <plugin>
 	<name>Black Water Abyss addon search</name>
-	<link>plugin://plugin.video.bcreborn/?action=playb&title=Black%20Water%20Abyss</link>
+	<link>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Black%20Water%20Abyss</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ysFxqlf0qjPxt4c8BRvLfuQqsAK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/gImYcuRDAocLxAyr5TzpGC8gi0J.jpg</fanart>
 </plugin>
