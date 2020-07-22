@@ -5,6 +5,24 @@
 <SetViewMode>1</SetViewMode>
 <items>
 <item>
+	<title>[COLOR=white]12:00 A.M.-1:00 A.M.[/COLOR]</title>
+	<meta>
+	<tmdb>1973</tmdb>
+	<content>episode</content>
+	<tvshowtitle>24</tvshowtitle>
+	<year>2001</year>
+	<season>1</season>
+	<episode>1</episode>
+	</meta>
+	<link>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/show/1973/season/1/episode/1/links/</sublink>
+	<sublink name=[COLOR lime]Metalgear Search Link[/COLOR]>plugin.video.metalgear/tv/tmdb/search_term/24/1</sublink>
+	<sublink name=[COLOR lime]PortalGun Search Link[/COLOR]>plugin://plugin.video.bcreborn/?action=tvSearchterm&amp;name=the%20simpsons</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/kJw4YTgY68DSQ7oSF3W5p11mP7h.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/be6mDIMv7cg8duWkcYVnTB8rphO.jpg</fanart>
+</item>
+<item>
 	<title>[COLOR=white]Underwater[/COLOR]</title>
 	<meta>
 	<imdb>tt5774060</imdb>
