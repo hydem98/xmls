@@ -1482,7 +1482,7 @@
 	<link>
 	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=Tv7HyNSCCBo&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/608195/links/</sublink>
-	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.bcreborn/?action=playb&title=Ghosts%20of%20War</sublink>
+	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.bcreborn/?action=movieSearchtermrd&name=Ghosts%20of%20War</sublink>
 	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.elementum/search?q=Ghosts%20of%20War</sublink>
 	<sublink name=[COLOR lime]Metalgear Player Link[/COLOR]>plugin://plugin.video.metalgear/movies/play/tmdb/608195?usedefault=True</sublink>
 	<sublink name=[COLOR lime]PortalGun Player Link[/COLOR]>plugin://plugin.video.PortalGun/movies/play/tmdb/608195?usedefault=True</sublink>
