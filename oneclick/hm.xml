@@ -5,10 +5,19 @@
 <SetViewMode>1</SetViewMode>
 <items>
 <plugin>
-	<name>[B][COLOR=white]Battlestar Galactica[/COLOR][/B] Addon Search Rd</name>
-	<link>plugin://plugin.video.bcreborn/?action=tvSearchtermrd&name=Battlestar%20Galactica</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/uVNXtZRd0azXSdPZsvUuFcu0Doi.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/vLnYnApolGhlLsH7zmIOcI70tHu.jpg</fanart>
+	<title>[COLOR=white]Game of Thrones[/COLOR]</title>
+	<meta>
+	<tmdb>1399</tmdb>
+	<content>tv</content>
+	<title>Game of Thrones</title>
+	<year>2011</year>
+	</meta>
+	<link>
+	<sublink name=[COLOR red]trailer Link[/COLOR]>BpJYNVhGf1s</sublink>
+	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/show/Game of Thrones/links/</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
 </plugin>
 <item>
 	<title>[COLOR=white]Underwater[/COLOR]</title>
