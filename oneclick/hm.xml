@@ -4,25 +4,12 @@
 <fanart>https://offshoregit.com/c0ldfire/zip/plugin.video.no-name/fanart.jpg</fanart>
 <SetViewMode>1</SetViewMode>
 <items>
-<item>
-	<title>[COLOR=white]33[/COLOR]</title>
-	<meta>
-	<tmdb>1972</tmdb>
-	<content>episode</content>
-	<tvshowtitle>Battlestar Galactica</tvshowtitle>
-	<year>2004</year>
-	<season>1</season>
-	<episode>1</episode>
-	</meta>
-	<link>
-	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/show/1972/season/1/episode/1/links/</sublink>
-	<sublink name=[COLOR lime]Metalgear Search Link[/COLOR]>plugin.video.metalgear/tv/tmdb/search_term/Battlestar+Galactica/1</sublink>
-	<sublink name=[COLOR lime]PortalGun Search Link[/COLOR]>plugin://plugin.video.PortalGun/tv/tmdb/search_term/Battlestar+Galactica/1</sublink>
-	<sublink name=[COLOR lime]PortalGun Search Link[/COLOR]>plugin://plugin.video.bcreborn/?action=tvSearchtermrd&name=Battlestar%20Galactica</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/ygWsbSEzVM9nTSKOqhVtamnBGyl.jpg</thumbnail>
+<plugin>
+	<name>[B][COLOR=white]Battlestar Galactica[/COLOR][/B] Addon Search Rd</name>
+	<link>plugin://plugin.video.bcreborn/?action=tvSearchtermrd&name=Battlestar%20Galactica</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uVNXtZRd0azXSdPZsvUuFcu0Doi.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vLnYnApolGhlLsH7zmIOcI70tHu.jpg</fanart>
-</item>
+</plugin>
 <item>
 	<title>[COLOR=white]Underwater[/COLOR]</title>
 	<meta>
