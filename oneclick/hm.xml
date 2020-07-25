@@ -4,21 +4,23 @@
 <fanart>https://offshoregit.com/c0ldfire/zip/plugin.video.no-name/fanart.jpg</fanart>
 <SetViewMode>1</SetViewMode>
 <items>
-<plugin>
-	<title>[COLOR=white]Game of Thrones[/COLOR]</title>
+<item>
+	<title>[COLOR=dodgerblue]3 Lives[/COLOR]</title>
 	<meta>
-	<tmdb>1399</tmdb>
-	<content>tv</content>
-	<title>Game of Thrones</title>
-	<year>2011</year>
+	<imdb>tt4340072</imdb>
+	<content>movie</content>
+	<title>3 Lives</title>
+	<year>2019</year>
 	</meta>
 	<link>
-	<sublink name=[COLOR red]trailer Link[/COLOR]>BpJYNVhGf1s</sublink>
-	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.bcreborn/?action=tvSearchtermrd&name=Game%20of%20Thrones</sublink>
+	<sublinkTrailer>https://www.youtube.com/watch?v=X85Bckm-XFE&feature=youtu.be</sublink>
+<sublink720pDebrid>magnet:?xt=urn:btih:D4F864CD9A6A456B93A86C9A0A758D8AF5D0D1EE&dn=3%20Lives&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://torrent.gresille.org:80/announce&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://tracker.leechers-paradise.org:6969&tr=udp://p4p.arenabg.ch:1337&tr=udp://tracker.internetwarriors.net:1337</sublink>
+<sublink1080pDebrid>magnet:?xt=urn:btih:DE85D3E36B7B7359CAEA8592AFF187F391A47CFB&dn=3%20Lives&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://torrent.gresille.org:80/announce&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://tracker.leechers-paradise.org:6969&tr=udp://p4p.arenabg.ch:1337&tr=udp://tracker.internetwarriors.net:1337</sublink>
+	<sublinkSearch>search</sublink>
 	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
-</plugin>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/plJ4VWzHqZ6iN2Xb3NvlqRulfgF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/uUnbH6mXYY9raSVrHy9Ld2OXoRA.jpg</fanart>
+</item>
 <item>
 	<title>[COLOR=white]Underwater[/COLOR]</title>
 	<meta>
