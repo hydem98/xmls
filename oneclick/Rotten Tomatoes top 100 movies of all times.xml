@@ -7,6 +7,8 @@
 	<year>1964</year>
 	</meta>
 	<link>
+        <sublink name=[COLOR limegreen]Platinum Link[/COLOR]>search</sublink>
+        <sublink name=[COLOR springgreen]Silver Link[/COLOR]>searchsd</sublink>
 	<sublink name=[COLOR red]trailer Link[/COLOR]>https://www.youtube.com/watch?v=pqmD3FWPajY&feature=youtu.be (Play Trailer)</sublink>
 	<sublink name=[COLOR lime]Torrent Link[/COLOR]>plugin://plugin.video.elementum/movie/704/links/</sublink>
 	<sublink name=[COLOR lime]Torrent Search Link[/COLOR]>plugin://plugin.video.odin/?action=play&title=The+Dark+Knight&year=2008&imdb=tt0468569</sublink>
